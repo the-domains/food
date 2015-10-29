@@ -1,0 +1,23 @@
+name: food
+favicon: null
+layout_spectrum: 0.44508994673378766
+typography_spectrum: 0.7889032831881195
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5673130950890481
+  lightness: 0.345234801992774
+  saturation: 0.7402241725940257
+  rhythmicContrast: 0.9231195475440472
+purpose: []
